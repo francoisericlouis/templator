@@ -1,0 +1,44 @@
+html,
+body,
+#root,
+.App {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+body {
+  text-align: center;
+  background-size: 100% auto;
+  background-position: 50%;
+}
+body.bckgrnd_0 {
+  background-image: url(/public/assets/img/mountain-min.jpg);
+}
+body.bckgrnd_1 {
+  background-image: url(/public/assets/img/altitude-min.jpg);
+}
+body.bckgrnd_2 {
+  background-image: url(/public/assets/img/sea-min.jpg);
+}
+body.bckgrnd_3 {
+  background-image: url(/public/assets/img/kamil-kalbarczyk-min.jpg);
+}
+body.bckgrnd_4 {
+  background-image: url(/public/assets/img/roberto-nickson-min.jpg);
+}
+body.bckgrnd_5 {
+  background-image: url(/public/assets/img/andrew-charney-min.jpg);
+}
+body.bckgrnd_6 {
+  background-image: url(/public/assets/img/samuel-scrimshaw-min.jpg);
+}
+body.bckgrnd_7 {
+  background-image: url(/public/assets/img/trevin-rudy-min.jpg);
+}
+h1 {
+  color: rgb(100, 100, 100);
+}
+h1.placeholder {
+  mix-blend-mode: difference;
+}

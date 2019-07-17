@@ -1,0 +1,10 @@
+{
+    "code": "{{code}}",
+    "title": "{{Titre}}",
+    "text": "{{Texte}}",
+    "linkLabel": "{{Texte Lien}}",
+    "imagePathLeft": "{{Path Image}}",        
+    "linkTitle":"{{Titre du lien (si site externe)}}",
+    "linkExt": "{{Lien externe}}",        
+    "conditionPath": "{{Path conditions, (facultatif)}}"
+}
